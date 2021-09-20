@@ -35,6 +35,8 @@ namespace IdealWeight
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Error!");
             }
+
+            Console.WriteLine("Finished");
             Console.ReadKey();
         }
     }
