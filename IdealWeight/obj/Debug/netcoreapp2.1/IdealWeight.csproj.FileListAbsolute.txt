@@ -1,0 +1,11 @@
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\bin\Debug\netcoreapp2.1\IdealWeight.deps.json
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\bin\Debug\netcoreapp2.1\IdealWeight.runtimeconfig.json
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\bin\Debug\netcoreapp2.1\IdealWeight.runtimeconfig.dev.json
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\bin\Debug\netcoreapp2.1\IdealWeight.dll
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\bin\Debug\netcoreapp2.1\IdealWeight.pdb
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\obj\Debug\netcoreapp2.1\IdealWeight.csprojAssemblyReference.cache
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\obj\Debug\netcoreapp2.1\IdealWeight.csproj.CoreCompileInputs.cache
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\obj\Debug\netcoreapp2.1\IdealWeight.AssemblyInfoInputs.cache
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\obj\Debug\netcoreapp2.1\IdealWeight.AssemblyInfo.cs
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\obj\Debug\netcoreapp2.1\IdealWeight.dll
+C:\Users\m.morsy\source\repos\IdealWeight\IdealWeight\obj\Debug\netcoreapp2.1\IdealWeight.pdb
